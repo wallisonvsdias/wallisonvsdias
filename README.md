@@ -1,5 +1,11 @@
 ### Oii 👋
 
+#### Estou fazendo o curso de HTML5 e CSS3 do CursoemVídeo
+
+####🔭 Alguns trabalhos:
+#####[Projeto Android](https://wallisonvsdias.github.io/projeto-android/)
+#####[Projeto Cordel](https://wallisonvsdias.github.io/projeto-cordel/)
+
 <!--
 **wallisonvsdias/wallisonvsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
