@@ -5,6 +5,8 @@
 #### 🔭 Alguns trabalhos:
 ##### [Projeto Android](https://wallisonvsdias.github.io/projeto-android/)
 ##### [Projeto Cordel](https://wallisonvsdias.github.io/projeto-cordel/)
+##### [Projeto Redes Sociais](https://wallisonvsdias.github.io/projeto-social/)
+##### [Projeto Tela de Login](https://wallisonvsdias.github.io/projeto-login/)
 
 <!--
 **wallisonvsdias/wallisonvsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
