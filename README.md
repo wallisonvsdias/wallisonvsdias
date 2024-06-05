@@ -1,6 +1,6 @@
 ### Oii 👋
 
-<img  src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7"/>
+<img  src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"/>
 
 #### Estou fazendo o curso de HTML5 e CSS3 do CursoemVídeo (4/5 módulos)
 #### Estou fazendo o curso de Javascript do CursoemVídeo
