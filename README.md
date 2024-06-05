@@ -1,5 +1,7 @@
 ### Oii 👋
 
+<img src="https://tenor.com/pt-BR/view/hello-hi-minion-gif-13004117825953885603">
+
 #### Estou fazendo o curso de HTML5 e CSS3 do CursoemVídeo (4/5 módulos)
 #### Estou fazendo o curso de Javascript do CursoemVídeo
 
