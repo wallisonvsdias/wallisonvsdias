@@ -1,6 +1,6 @@
 ### Oii 👋
 
-<img  src="https://tenor.com/pt-BR/view/work-office-computer-penguin-job-gif-10013904041284194281"/>
+<img  src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7"/>
 
 #### Estou fazendo o curso de HTML5 e CSS3 do CursoemVídeo (4/5 módulos)
 #### Estou fazendo o curso de Javascript do CursoemVídeo
