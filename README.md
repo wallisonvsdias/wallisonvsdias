@@ -3,7 +3,7 @@
 <img  src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"/>
 
 #### Estou fazendo o curso de HTML5 e CSS3 do CursoemVídeo (4/5 módulos)
-#### Estou fazendo o curso de Javascript do CursoemVídeo
+#### Concluí o curso de Javascript do CursoemVídeo
 
 #### 🔭 Alguns trabalhos:
 ##### [Projeto Android](https://wallisonvsdias.github.io/projeto-android/)
