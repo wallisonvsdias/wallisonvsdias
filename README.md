@@ -4,7 +4,7 @@
 
 
 #### 🔭 Alguns trabalhos:
-##### [Projeto Todo-List(https://wallisonvsdias.github.io/todolist-project/)
+##### [Projeto Todo-List](https://wallisonvsdias.github.io/todolist-project/)
 ##### [Projeto Android](https://wallisonvsdias.github.io/projeto-android/)
 ##### [Projeto Cordel](https://wallisonvsdias.github.io/projeto-cordel/)
 ##### [Projeto Redes Sociais](https://wallisonvsdias.github.io/projeto-social/)
