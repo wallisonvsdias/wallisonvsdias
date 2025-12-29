@@ -54,4 +54,5 @@
 
 ### 📫 Vamos nos conectar?
 - **[Siga-me aqui no GitHub!](https://github.com/wallisonvsdias)**
-- **[LinkedIn](https://www.linkedin.com/in/wallison-dias-0582762b8/)** 
+- **[LinkedIn](https://www.linkedin.com/in/wallison-dias-0582762b8/)**
+- **[Beecrowd](https://judge.beecrowd.com/pt/profile/1204250)** 
