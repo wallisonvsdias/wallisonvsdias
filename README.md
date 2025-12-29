@@ -1,12 +1,11 @@
 # Olá, eu sou Wallison! 👋
 
 <div align = "center">
-    <img src = "https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" width = "300"/>
+    <img width="400" height="400" alt="octocat-1766967911238" src="https://github.com/user-attachments/assets/b5806b18-d83f-4794-ac6d-1fec3a5975e9" />
 </div>
 
 ### Sobre Mim
-- 🎓 Estudante de Sistemas de Informação na **UFRN**.
-- 🚀 Desenvolvedor focado em **React.js** e com base sólida em **Python, Java** e **C**.
+- 🚀 Desenvolvedor focado em **React.js** e com base sólida em **Python, C** e **Java**.
 - 🌍 Avançado em **Inglês** e expandindo horizontes para o Espanhol e Francês.
 - 🧠 Entusiasta de **bem-estar digital** e **acessibilidade**.
 
@@ -25,9 +24,10 @@
     <img src = "https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
     <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -37,8 +37,8 @@
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | **Todo-List** | Lista de tarefas moderna com React, Vite e Glassmorphism. | [Acessar](https://wallisonvsdias.github.io/todolist-project/) |
-| **Projeto Android** | Estudo de interface e design para dispositivos móveis. | [Acessar](https://wallisonvsdias.github.io/projeto-android/) |
-| **Projeto Cordel** | Aplicação de tipografia e design responsivo. | [Acessar](https://wallisonvsdias.github.io/projeto-cordel/) |
+| **Android** | Estudo de interface e design para dispositivos móveis. | [Acessar](https://wallisonvsdias.github.io/projeto-android/) |
+| **Cordel** | Aplicação de tipografia e design responsivo. | [Acessar](https://wallisonvsdias.github.io/projeto-cordel/) |
 | **Redes Sociais** | Landing page focada em integração de links sociais. | [Acessar](https://wallisonvsdias.github.io/projeto-social/) |
 
 ---
@@ -53,4 +53,5 @@
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** https://www.linkedin.com/in/wallison-dias-0582762b8/
+- **[Siga-me aqui no GitHub!](https://github.com/wallisonvsdias)**
+- **[LinkedIn](https://www.linkedin.com/in/wallison-dias-0582762b8/)** 
