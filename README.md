@@ -4,18 +4,7 @@
     <img width="150" height="150" style="border-radius: 50%;" alt="Profile Picture" src="https://github.com/user-attachments/assets/b5806b18-d83f-4794-ac6d-1fec3a5975e9" />
     <br />
     <h3>Web Developer</h3>
-    <a href="https://www.linkedin.com/in/wallison-dias-0582762b8/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://judge.beecrowd.com/pt/profile/1204250">
-        <img src="https://img.shields.io/badge/Beecrowd-FFA500?style=for-the-badge&logo=codeforces&logoColor=white" />
-    </a>
 </div>
-
----
 
 - 🔭 I’m currently studying **Information Systems**.
 - 💻 Developer focused on **React.js** with a solid foundation in **Python, C**, and **Java**.
@@ -61,7 +50,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[CinePalette](https://cinepalette-project.vercel.app/)** | `React 19` `Tailwind v4` | A vibe-based movie discovery app with dynamic color extraction. |
-| **[Todo-List](https://wallisonvsdias.github.io/todolist-project/)** | `React` `Vite` | Modern task manager built with Glassmorphism UI. |
+| **[Todo-List](https://wallisonvsdias.github.io/todolist-project/)** | `React 19` `Vite` | Modern task manager built with Glassmorphism UI. |
 | **[Android](https://wallisonvsdias.github.io/projeto-android/)** | `HTML` `CSS` | Interface and design study for mobile devices history. |
 | **[Cordel](https://wallisonvsdias.github.io/projeto-cordel/)** | `CSS` `Responsive` | Typography and design showcase based on Brazilian literature. |
 | **[Social Links](https://wallisonvsdias.github.io/projeto-social/)** | `HTML` `CSS` | Landing page focused on social link integration. |
@@ -71,10 +60,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/wallisonvsdias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallisonvsdias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonvsdias&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wallisonvsdias&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wallisonvsdias&layout=compact&langs_count=7&theme=dark" />
+
 </div>
 
 <div align="center">
