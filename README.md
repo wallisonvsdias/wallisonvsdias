@@ -64,7 +64,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wallisonvsdias&layout=compact&langs_count=7&theme=dark" />
 
 </div>
-
-<div align="center">
-  <img src="https://github.com/wallisonvsdias/wallisonvsdias/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
